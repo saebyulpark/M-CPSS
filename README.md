@@ -3,7 +3,7 @@
 ## Introduction
 This repository provides resources, code, and documentation for the study **"A Large-Scale Multimodal Framework for Mapping Artistic Creativity: How Do Human and AI Art Differ?"**, presented at **CHI 2026**. This study introduces **M-CPSS**, a computational framework that bridges psychological theories of creativity with vision--language models for large-scale, interpretable analysis of artistic creativity. By aligning artworks with the **Creative Product Semantic Scale (CPSS)** within a CLIP-based image--text embedding space, our approach represents each artwork as a structured profile of creative attributes.
 
-<img src="https://drive.google.com/uc?id=1uoVFtwXUlGZwe0ZqlEyEQ9NAcAoRGd88" alt="Teaser Figure" width="800">
+![Teaser Figure](https://drive.google.com/uc?id=1uoVFtwXUlGZwe0ZqlEyEQ9NAcAoRGd88)
 
 *Example creativity profiles of individual artworks based on the M-CPSS framework. The profiles illustrate how artistic creativity can be represented by embedding artworks and creative attributes into a shared vision--text multimodal embedding space.*
 
