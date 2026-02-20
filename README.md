@@ -28,6 +28,6 @@ Our analysis is conducted using the **AI-ArtBench** dataset, which provides a ba
 ## Contact
 For questions or further information regarding the M-CPSS framework, please contact:
 * **Saebyul Park** ([saebyulsb@gmail.com](mailto:saebyulsb@gmail.com))
-* **Jiye Jung** ([jiye.jung@hhu.de](mailto:jiye.jung@hhu.de))
+* **Jiye Jung** ([jiye.jung@hhu.de](mailto:jujiy100@uni-duesseldorf.de))
 ---
 **Supplementary Materials**: Detailed experimental results, piecewise scaling calibration, and extended network statistics are available in the **[Supplementary PDF - TBA]**.
