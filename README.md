@@ -26,7 +26,8 @@ Our analysis is conducted using the **AI-ArtBench** dataset, which provides a ba
 *Overview of M-CPSS results: (R1) Creativity profile differences, (R2) Style-conditioned differences, and (R3) Creativity network structure.*
 
 ## Contact
-For questions or further information regarding the M-CPSS framework, please contact **Saebyul Park** ([saebyulsb@gmail.com](mailto:saebyulsb@gmail.com)).
-
+For questions or further information regarding the M-CPSS framework, please contact:
+* **Saebyul Park** ([saebyulsb@gmail.com](mailto:saebyulsb@gmail.com))
+* **Jiye Jung** ([jiye.jung@hhu.de](mailto:jiye.jung@hhu.de))
 ---
 **Supplementary Materials**: Detailed experimental results, piecewise scaling calibration, and extended network statistics are available in the **[Supplementary PDF - TBA]**.
