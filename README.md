@@ -22,8 +22,8 @@ Our analysis is conducted using the **AI-ArtBench** dataset, which provides a ba
 * **Scope**: 185,015 images spanning 10 artistic styles and 3 generative sources (Human, Latent Diffusion, Stable Diffusion).
 
 ## Experimental Results
-![Result Figure](https://drive.google.com/uc?id=1mZkMRxsveIa8jxVCxLv8ilHRb10EVvmE)
-*Overview of M-CPSS results: (R1) Creativity profile differences, (R2) Style-conditioned differences, and (R3) Creativity network structure.*
+![Result Figure](https://drive.google.com/uc?id=19VZEfe3giLah27n0bxG5NuMncppGcQcs)  
+*Overview of M-CPSS results (R3): Structural organization of creativity-similarity networks. Our analysis reveals that **human-created art** demonstrates a more semantically diverse and cross-stylistically organized structure, whereas **AI-generated art** tends to exhibit more structurally clustered and stylized patterns. For more detailed results and comprehensive analysis (R1, R2), please refer to our full paper.*
 
 ## Contact
 For questions or further information regarding the M-CPSS framework, please contact:
