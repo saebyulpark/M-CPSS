@@ -22,7 +22,7 @@ Our analysis is conducted using the **AI-ArtBench** dataset, which provides a ba
 * **Scope**: 185,015 images spanning 10 artistic styles and 3 generative sources (Human, Latent Diffusion, Stable Diffusion).
 
 ## Experimental Results
-![Result Figure](result_final_v2.png)  
+![Result Figure](https://drive.google.com/uc?id=1mZkMRxsveIa8jxVCxLv8ilHRb10EVvmE)
 *Overview of M-CPSS results: (R1) Creativity profile differences, (R2) Style-conditioned differences, and (R3) Creativity network structure.*
 
 ## Contact
