@@ -14,7 +14,7 @@ Please refer to the full paper for an in-depth analysis of our findings and meth
 The tutorial provides a step-by-step guide to implementing the M-CPSS pipeline using Python. It covers the entire workflow from extracting multimodal features to generating creativity profiles and constructing similarity networks.
 
 * **[Colab Tutorial: Interactive M-CPSS Creativity Profiling Demo](https://colab.research.google.com/drive/1qa7X1LbixoXdMUD-Cco1B1v9vEap3rku?usp=sharing)**
-* 
+  
 ## Dataset
 Our analysis is conducted using the **AI-ArtBench** dataset, which provides a balanced collection of human-created and AI-generated artworks with consistent style annotations.
 
