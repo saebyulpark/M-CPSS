@@ -30,4 +30,5 @@ For questions or further information regarding the M-CPSS framework, please cont
 * **Saebyul Park** ([saebyulsb@gmail.com](mailto:saebyulsb@gmail.com))
 * **Jiye Jung** ([jujiy100@uni-duesseldorf.de](mailto:jujiy100@uni-duesseldorf.de))
 ---
-**Supplementary Materials**: Detailed experimental results, piecewise scaling calibration, and extended network statistics are available in the **[Supplementary PDF - TBA]**.
+**Supplementary Materials**: Detailed experimental results, piecewise scaling calibration, and extended network statistics are available in the  
+**[Supplementary PDF](https://drive.google.com/file/d/1JKYSwweO_emZj_3ac6OF1QTAwsmjEMrC/view?usp=sharing)**.
