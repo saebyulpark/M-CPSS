@@ -31,5 +31,4 @@ For questions or further information regarding the M-CPSS framework, please cont
 * **Saebyul Park** ([saebyulsb@gmail.com](mailto:saebyulsb@gmail.com))
 * **Jiye Jung** ([jujiy100@uni-duesseldorf.de](mailto:jujiy100@uni-duesseldorf.de))
 ---
-**Supplementary Materials**: Additional qualitative examples, statistical analyses, implementation details, and extended experimental results are available in the  
-**[Supplementary PDF](https://drive.google.com/file/d/1JKYSwweO_emZj_3ac6OF1QTAwsmjEMrC/view?usp=sharing)**.
+**Supplementary Materials**: Additional qualitative examples, statistical analyses, implementation details, and extended experimental results are available in the **[Supplementary PDF](https://drive.google.com/file/d/1JKYSwweO_emZj_3ac6OF1QTAwsmjEMrC/view?usp=sharing)**.
