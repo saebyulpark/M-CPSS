@@ -11,6 +11,16 @@ This repository provides resources, code, and documentation for the study **"A L
 Please refer to the full paper for an in-depth analysis of our findings and methodology: 
 [**[Paper]**](https://doi.org/10.1145/3772363.3798861)
 
+## Presentation
+<div align="center">
+  <a href="https://youtu.be/S05BYcSr30g">
+    <img src="https://img.youtube.com/vi/S05BYcSr30g/maxresdefault.jpg" alt="CHI 2026 Presentation" width="640">
+  </a>
+  <p><b>📺 Click to watch the CHI 2026 Presentation</b></p>
+</div>
+
+---
+
 ## Tutorial
 The tutorial provides a step-by-step guide to implementing the M-CPSS pipeline using Python. It covers the entire workflow from extracting multimodal features to generating creativity profiles and constructing similarity networks.
 
