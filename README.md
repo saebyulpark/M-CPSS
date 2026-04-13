@@ -8,7 +8,8 @@ This repository provides resources, code, and documentation for the study **"A L
 *Example creativity profiles of individual artworks based on the M-CPSS framework. The profiles illustrate how artistic creativity can be represented by embedding artworks and creative attributes into a shared vision--text multimodal embedding space.*
 
 
-Please refer to the full paper for an in-depth analysis of our findings and methodology: **[DOI: 10.1145/3772363.3798861](https://doi.org/10.1145/3772363.3798861)**
+Please refer to the full paper for an in-depth analysis of our findings and methodology: 
+[**[Paper]**](https://doi.org/10.1145/3772363.3798861)
 
 ## Tutorial
 The tutorial provides a step-by-step guide to implementing the M-CPSS pipeline using Python. It covers the entire workflow from extracting multimodal features to generating creativity profiles and constructing similarity networks.
