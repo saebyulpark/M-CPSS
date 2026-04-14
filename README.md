@@ -16,7 +16,7 @@ Please refer to the full paper for an in-depth analysis of our findings and meth
   <a href="https://youtu.be/S05BYcSr30g">
     <img src="https://img.youtube.com/vi/S05BYcSr30g/maxresdefault.jpg" alt="CHI 2026 Presentation" width="640">
   </a>
-  <p><b>📺 Click to watch the CHI 2026 Presentation</b></p>
+  <p><b>📺 Click to watch the CHI 2026 VIDEO Presentation</b></p>
 </div>
 
 ---
