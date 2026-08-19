@@ -42,4 +42,9 @@ For questions or further information regarding the M-CPSS framework, please cont
 * **Saebyul Park** ([saebyulsb@gmail.com](mailto:saebyulsb@gmail.com)) · Website: [https://saebyulpark.github.io/](https://saebyulpark.github.io/)
 * **Jiye Jung** ([jujiy100@uni-duesseldorf.de](mailto:jujiy100@uni-duesseldorf.de))
 ---
-**Supplementary Materials**: Additional qualitative examples, statistical analyses, implementation details, and extended experimental results are available in the **[Supplementary PDF]([https://drive.google.com/file/d/1JKYSwweO_emZj_3ac6OF1QTAwsmjEMrC/view?usp=sharing](https://drive.google.com/file/d/1n7QN2IR9rkO512hVztSoGlNhaxkefR91/view?usp=sharing))**.
+링크 문법이 중첩돼 있어서 그래. 바깥의 `([ ... ](...))`가 한 번 더 들어가 있어.
+
+이렇게 고치면 돼:
+
+**Supplementary Materials**: Additional qualitative examples, statistical analyses, implementation details, and extended experimental results are available in the **[Supplementary PDF](https://drive.google.com/file/d/1n7QN2IR9rkO512hVztSoGlNhaxkefR91/view?usp=sharing)**.
+
